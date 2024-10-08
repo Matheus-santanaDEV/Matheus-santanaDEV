@@ -6,6 +6,19 @@
 ###
 ###
 
+
+<h1 align="left">Quem sou eu?</h1>
+
+###
+
+<p align="left">Jovem apaixonado por tecnologia , futebol e games . Formado em Desenvolvimento de Sistemas , desenvolvi uma grande paixão pelo desenvolvimento mobile e estou me especializando na linguagem Dart e no framework Flutter.
+
+Atualmente, estou em busca da minha primeira oportunidade na área de desenvolvimento mobile. 🚀📱</p>
+
+###
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-santanaDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-santanaDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -14,7 +27,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/_u01wPuDwFEAAAAd/static-shock-electricity.gif"  />
 
 ###
 
@@ -32,6 +45,7 @@
 ###
 
 ###
+
 
 <h2 align="left">Linguagens</h2>
 
