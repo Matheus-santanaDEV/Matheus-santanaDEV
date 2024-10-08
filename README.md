@@ -57,9 +57,7 @@
 
 ###
 
-
- 
-<p align="left">Linguagens</p>
+<h2 align="left">Linguagens</h2>
 
 ###
 
@@ -71,7 +69,7 @@
 
 ###
 
-<p align="left">Frameworks e ferramentas</p>
+<h2 align="left">Frameworks e ferramentas</h2>
 
 ###
 
@@ -91,12 +89,7 @@
 
 ###
 
-<p align="left">Estou estudando</p>
-
-###
-
-<div align="left">
-</div>
+<h2 align="left">Estou estudando</h2>
 
 ###
 
@@ -105,6 +98,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
+
+###
+
+<div align="left">
+</div>
+
+###
 
 ###
 
