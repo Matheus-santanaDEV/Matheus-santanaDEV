@@ -11,9 +11,12 @@
 
 ###
 
-<p align="left">Jovem apaixonado por tecnologia , futebol e games . Formado em Desenvolvimento de Sistemas , desenvolvi uma grande paixão pelo desenvolvimento mobile e estou me especializando na linguagem Dart e no framework Flutter.
+<p align="left">Jovem apaixonado por tecnologia , futebol e games . Formado em Desenvolvimento de Sistemas , desenvolvi uma grande paixão pelo desenvolvimento mobile e estou me especializando na linguagem Dart e no framework Flutter .
 
-Atualmente, estou em busca da minha primeira oportunidade na área de desenvolvimento mobile. 🚀📱</p>
+Já tive um GitHub com alguns projetos simples, mas ele acabou ficando fora do ar.
+GitHub antigo: https://github.com/Matheus-mt10
+
+Atualmente, estou em busca da minha primeira oportunidade na área de desenvolvimento mobile . 🚀📱</p>
 
 ###
 
